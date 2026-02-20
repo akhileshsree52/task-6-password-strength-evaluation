@@ -4,7 +4,7 @@
 To understand password security concepts by creating passwords with varying complexity and evaluating their strength using an online password strength checker.
 
 ## Tools Used
-- Online Password Strength Checker (passwordmeter.com)
+- Online Password Strength Checker (passwordmonster.com)
 
 ## Steps Performed
 1. Created multiple passwords with different complexity levels.
